@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "HQ635R3701",
         "name": "com.newyellow.arfoundationhelper",
-        "processId": 20224,
+        "processId": 32143,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -150,6 +150,78 @@
             "deviceId": "HQ635R3701",
             "name": "com.newyellow.arfoundationhelper",
             "processId": 20224,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 21362,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 21937,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 22470,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 22998,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 23905,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 24873,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 28421,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 28942,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 30020,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 30947,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 31491,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 32143,
             "exited": false
         }
     ],
