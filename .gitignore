@@ -60,3 +60,7 @@ crashlytics-build.properties
 
 # Mac Files
 .DS_Store
+
+
+# Burst Debug Information
+*_DoNotShip/*
