@@ -16,6 +16,7 @@ Library: /Users/liujiejyun/development/arfoundation-helper/Temp/BurstOutput/temp
 --assembly-defines=System.Xml;
 --assembly-defines=Unity.InputSystem;
 --assembly-defines=Unity.InputSystem.ForUI;
+--assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.XR.ARCore;
 --assembly-defines=Unity.XR.ARFoundation;
 --assembly-defines=Unity.XR.ARFoundation.InternalUtils;
