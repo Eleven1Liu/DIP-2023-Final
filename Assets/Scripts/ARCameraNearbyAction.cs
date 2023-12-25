@@ -38,13 +38,6 @@ public class ARCameraNearbyAction : MonoBehaviour {
     }
 
     private void SetObjectVisibility(bool isVisible) {
-        // You can use Renderer component to set visibility. If the object has a Renderer component:
-        Renderer renderer = GetComponent<Renderer>();
-        if (renderer != null) {
-            renderer.enabled = isVisible;
-        }
-
-        // Alternatively, you can use GameObject.SetActive to enable or disable the entire GameObject:
-        // gameObject.SetActive(isVisible);
+        gameObject.SetActive(isVisible);
     }
 }
