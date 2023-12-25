@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Merge.unity
     guid: 5d32c5eff5a0f4f03ba0e6bed1e8ab77
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SolarSmash.unity
     guid: d06f0e6ebb50b420e875b490cdbbe5ff
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: f8ce57295325c714cb004ae949b400a4
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2b57df5edf66f4dbe9b6473f15bacb59, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: fab536f27fae74fb086409bf1a52165c, type: 2}

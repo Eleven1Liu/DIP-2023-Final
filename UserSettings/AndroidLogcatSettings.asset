@@ -3,29 +3,11 @@
     "m_SelectedPackage": {
         "deviceId": "HQ635R3701",
         "name": "com.newyellow.arfoundationhelper",
-        "processId": 12479,
+        "processId": 20942,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 29682,
-            "exited": true
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 30383,
-            "exited": true
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 31069,
-            "exited": true
-        },
         {
             "deviceId": "HQ635R3701",
             "name": "jp.naver.line.android",
@@ -35,49 +17,37 @@
         {
             "deviceId": "HQ635R3701",
             "name": "com.newyellow.arfoundationhelper",
-            "processId": 23195,
+            "processId": 9078,
             "exited": true
         },
         {
             "deviceId": "HQ635R3701",
             "name": "com.newyellow.arfoundationhelper",
-            "processId": 23857,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 25175,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 26496,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 32038,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 9078,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
             "processId": 11348,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "HQ635R3701",
             "name": "com.newyellow.arfoundationhelper",
             "processId": 12479,
+            "exited": true
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 17666,
+            "exited": true
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.google.android.deskclock",
+            "processId": 20594,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 20942,
             "exited": false
         }
     ],
