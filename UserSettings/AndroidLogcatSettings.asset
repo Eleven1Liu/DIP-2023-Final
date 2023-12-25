@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "HQ635R3701",
         "name": "com.newyellow.arfoundationhelper",
-        "processId": 26496,
+        "processId": 32038,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -54,6 +54,12 @@
             "deviceId": "HQ635R3701",
             "name": "com.newyellow.arfoundationhelper",
             "processId": 26496,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 32038,
             "exited": false
         }
     ],
