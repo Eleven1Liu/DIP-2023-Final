@@ -2,52 +2,124 @@
     "m_SelectedDeviceId": "HQ635R3701",
     "m_SelectedPackage": {
         "deviceId": "HQ635R3701",
-        "name": "com.newyellow.arfoundationhelper",
-        "processId": 20942,
+        "name": "NTU.RedGiant",
+        "processId": 24891,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "HQ635R3701",
-            "name": "jp.naver.line.android",
-            "processId": 24876,
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 21685,
+            "exited": true
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 28194,
+            "exited": true
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "NTU.RedGiant",
+            "processId": 32481,
+            "exited": true
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.sonymobile.launcher",
+            "processId": 3103,
             "exited": false
         },
         {
             "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 9078,
+            "name": "NTU.RedGiant",
+            "processId": 963,
             "exited": true
         },
         {
             "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 11348,
-            "exited": true
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 12479,
-            "exited": true
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 17666,
-            "exited": true
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.google.android.deskclock",
-            "processId": 20594,
+            "name": "com.google.android.gm",
+            "processId": 28327,
             "exited": false
         },
         {
             "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 20942,
+            "name": "NTU.RedGiant",
+            "processId": 4805,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "NTU.RedGiant",
+            "processId": 8709,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "NTU.RedGiant",
+            "processId": 9935,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "NTU.RedGiant",
+            "processId": 10979,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "NTU.RedGiant",
+            "processId": 11990,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "NTU.RedGiant",
+            "processId": 12896,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "NTU.RedGiant",
+            "processId": 14073,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "NTU.RedGiant",
+            "processId": 20533,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "NTU.RedGiant",
+            "processId": 21364,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "NTU.RedGiant",
+            "processId": 22654,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "NTU.RedGiant",
+            "processId": 23383,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "NTU.RedGiant",
+            "processId": 24263,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "NTU.RedGiant",
+            "processId": 24891,
             "exited": false
         }
     ],
