@@ -3,159 +3,57 @@
     "m_SelectedPackage": {
         "deviceId": "HQ635R3701",
         "name": "com.newyellow.arfoundationhelper",
-        "processId": 31069,
+        "processId": 26496,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "HQ635R3701",
-            "name": "com.sonymobile.launcher",
-            "processId": 7533,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 15590,
-            "exited": true
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 17402,
-            "exited": true
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 18012,
-            "exited": true
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 18531,
-            "exited": true
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 24938,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 25970,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 26564,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 27277,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 28621,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 29182,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 32330,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 2530,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 3620,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 4946,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 5832,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 30767,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 31518,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 12067,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 17795,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 18719,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
-            "name": "com.newyellow.arfoundationhelper",
-            "processId": 27734,
-            "exited": false
-        },
-        {
-            "deviceId": "HQ635R3701",
             "name": "com.newyellow.arfoundationhelper",
             "processId": 29682,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "HQ635R3701",
             "name": "com.newyellow.arfoundationhelper",
             "processId": 30383,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "HQ635R3701",
             "name": "com.newyellow.arfoundationhelper",
             "processId": 31069,
+            "exited": true
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "jp.naver.line.android",
+            "processId": 24876,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 23195,
+            "exited": true
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 23857,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 25175,
+            "exited": false
+        },
+        {
+            "deviceId": "HQ635R3701",
+            "name": "com.newyellow.arfoundationhelper",
+            "processId": 26496,
             "exited": false
         }
     ],
