@@ -8,6 +8,9 @@
     ```
 - Add Project to Unity
 - Open ˋAssets/Scenes/Mainˋ
+![image](docs/images/mainScene.gif)
 - Click ˋFile/Build Settingsˋ to build
+![image](docs/images/buildApp.gif)
+
 
 
