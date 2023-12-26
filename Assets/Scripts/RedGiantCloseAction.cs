@@ -11,10 +11,12 @@ public class RedGiantCloseAction : MonoBehaviour {
     private float DEFAULT_NEBULA_SHAPE_RADIUS = 10f;
     private float FINAL_NEBULA_SHAPE_RADIUS = 1f;
 
-    private float NEBULA_LIGHT_UP_RATIO = 3.0f;
+    private float NEBULA_LIGHT_UP_RATIO = 5.0f;
     
     private bool isSet = false;
     private List<ParticleSystem> particleSystemList = new List<ParticleSystem>();
+    private List<ParticleSystem> explosionList = new List<ParticleSystem>();
+    
 
     void Start() {
         // Set distance for hiding the binary star system
@@ -23,6 +25,13 @@ public class RedGiantCloseAction : MonoBehaviour {
         foreach (GameObject obj in nebulaGameObjs) {
             ParticleSystem nebula = obj.GetComponent<ParticleSystem>();
             particleSystemList.Add(nebula);
+        }
+
+        // Explosion
+        GameObject[] explosionObjs = GameObject.FindGameObjectsWithTag("Explosion");
+        foreach (GameObject obj in explosionObjs) {
+            ParticleSystem explosionSys = obj.GetComponent<ParticleSystem>();
+            explosionList.Add(explosionSys);
         }
     }
 
@@ -48,14 +57,26 @@ public class RedGiantCloseAction : MonoBehaviour {
                 isSet = true;
                 
                 Debug.LogError("Under the star system! Disappear");
-                SetObjectVisibility(false);
-                // Light up the sky: Get all partial systems tagged Nebula and set smaller radius.
-                foreach (ParticleSystem nebulaSys in particleSystemList) {
-                    SetShapeRadius(FINAL_NEBULA_SHAPE_RADIUS, nebulaSys);
-                    SetStartSize(nebulaSys);
-                    nebulaSys.Play(); // reset particle system
-                }
+                PlayRedGiantEnd();
             }
+        }
+    }
+
+    private void PlayRedGiantEnd(){
+        // Play explosion
+        foreach (ParticleSystem explosionSys in explosionList) {
+            explosionSys.Play();
+        }
+        // Wait for the duration of the first Particle System (not working)
+        // yield return new WaitForSeconds(explosionList[0].main.duration*2f);
+
+        SetObjectVisibility(false);
+
+        // Light up the sky: Get all partial systems tagged Nebula and set smaller radius.
+        foreach (ParticleSystem nebulaSys in particleSystemList) {
+            SetShapeRadius(FINAL_NEBULA_SHAPE_RADIUS, nebulaSys);
+            SetStartSize(nebulaSys);
+            nebulaSys.Play(); // reset particle system
         }
     }
 
