@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.3708708, g: 0.37838137, b: 0.35725543, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -533,6 +533,25 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &394687420 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8190669477699295521, guid: 5161feecce83869419f7667c7987a067, type: 3}
+  m_PrefabInstance: {fileID: 686917276}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &394687425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 394687420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 845be7194b7d74fd195263d2d263ea73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  arCameraTransform: {fileID: 0}
+  hideDistance: 5
 --- !u!1 &399397174
 GameObject:
   m_ObjectHideFlags: 0
@@ -885,6 +904,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Binary Star System
       objectReference: {fileID: 0}
+    - target: {fileID: 8190669477699295521, guid: 5161feecce83869419f7667c7987a067, type: 3}
+      propertyPath: m_TagString
+      value: RedGiant
+      objectReference: {fileID: 0}
     - target: {fileID: 8954265109787516991, guid: 5161feecce83869419f7667c7987a067, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -893,7 +916,10 @@ PrefabInstance:
     - {fileID: 7404817974435676383, guid: 5161feecce83869419f7667c7987a067, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8190669477699295521, guid: 5161feecce83869419f7667c7987a067, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 394687425}
   m_SourcePrefab: {fileID: 100100000, guid: 5161feecce83869419f7667c7987a067, type: 3}
 --- !u!1 &724150780
 GameObject:
