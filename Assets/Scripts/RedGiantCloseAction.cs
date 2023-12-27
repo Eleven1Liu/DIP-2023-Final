@@ -114,5 +114,10 @@ public class RedGiantCloseAction : MonoBehaviour {
         foreach (ParticleSystem nebulaSys in particleSystemList) {
             SetShapeRadius(DEFAULT_NEBULA_SHAPE_RADIUS, nebulaSys);
         }
+
+        // Explosion
+        foreach (ParticleSystem explosionSys in explosionList) {
+            explosionSys.playOnAwake = false;
+        }
     }
 }
