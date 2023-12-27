@@ -1,7 +1,11 @@
 # Red Giant
 
+## Prerequirement
+
+- Unity 2022.3.13f1
 
 ## How to use
+
 - Clone project
     ```
     git clone https://github.com/Eleven1Liu/DIP-2023-Final.git
