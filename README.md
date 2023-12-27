@@ -1,8 +1,9 @@
-# Red Giant
+# 千年一瞬: A Story of the Death and Rebirth of a Red Giant
 
 ## Prerequirement
 
 - Unity 2022.3.13f1
+- AR Foundation 5.1.1
 
 ## How to use
 
@@ -19,3 +20,7 @@
 
 - After all things done, click on the planet icon. You will see the binary star system in the sky!
 ![image](docs/images/openApp.gif)
+
+## Team members
+- Engineer: @kerry30338 @Wu-Cheng-Yu @Eleven1Liu @User154742504910672534362390528
+- Designer: 鄭莉蓉
