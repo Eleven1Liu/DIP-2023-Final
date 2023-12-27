@@ -1,4 +1,4 @@
-# 千年一瞬: A Story of the Death and Rebirth of a Red Giant
+# 千年一瞬: A Story of the Death and Rebirth of Red Giants
 
 ## Prerequirement
 
